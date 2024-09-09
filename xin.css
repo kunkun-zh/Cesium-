@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: #eee;
+
+
+
+
+}
+*{
+    border: 1px solid black;
+
+}
+.flex{
+    display: flex;
+}
+.baise{
+    background-color: white;
+}
+.felx1{
+    flex:1;
+}
+.colum{
+    flex-direction: column;
+}
